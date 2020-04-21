@@ -73,5 +73,3 @@ function displayWeather(){
 };
 
 
-//C TO F CONVERSION
-
